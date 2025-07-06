@@ -6,11 +6,6 @@ struct User {
     age: u32,
 }
 
-struct Rect {
-    width: u32,
-    height: u32,
-}
-
 enum Shape {
     Circle(f64),
     Square(f64),
